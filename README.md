@@ -11,12 +11,11 @@
 <td align="center">
 💻 Python&nbsp; • &nbsp;⚙️ Web projects &amp; automation<br />
 🌱 Learning by building&nbsp; • &nbsp;✨ Exploring new ideas
+🎮 Music • Games • Anime • Code 
+🐈 I have a two dogs
 </td>
 </tr>
 </table>
-
-<p align="center">🐈</p>
-
 </td>
 <td width="36%" valign="top" align="right">
 <img src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/profile-side-image.jpg" alt="Soft anime-style cat illustration beside a sunlit building" width="280" />
