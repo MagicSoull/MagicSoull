@@ -1,18 +1,15 @@
 <img align="right" width="260" alt="Soft anime-style cat illustration beside a sunlit building" src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/profile-side-image-right.jpg" />
 
-<img align="left" width="65%" alt="Hello, hello — I'm void, a Python developer" src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/intro-typing-void.gif" />
+<p align="left"><img width="65%" alt="Hello, hello — I'm void, a Python developer" src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/intro-typing-void.gif" /></p>
 
-<br clear="all" />
+<p align="center"><strong>About me</strong></p>
 
-## About me
+<p align="center">💻 <strong>Python</strong></p>
 
-💻 **Python**
+<p align="center">⚙️ Building web projects and automation tools</p>
 
-⚙️ Building web projects and automation tools
+<p align="center">🌱 Always learning and exploring new ideas</p>
 
-🌱 Always learning and exploring new ideas
+<p align="center">🎮 Music • Games • Anime • Code</p>
 
-🎮 Music • Games • Anime • Code
-
-🐕 I have two dogs
-
+<p align="center">🐕 I have two dogs</p>
