@@ -2,14 +2,15 @@
 
 <p align="left"><img width="65%" alt="Hello, hello — I'm void, a Python developer" src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/intro-typing-void.gif" /></p>
 
-<p align="center"><strong>About me</strong></p>
-
-<p align="center">💻 <strong>Python</strong></p>
-
-<p align="center">⚙️ Building web projects and automation tools</p>
-
-<p align="center">🌱 Always learning and exploring new ideas</p>
-
-<p align="center">🎮 Music • Games • Anime • Code</p>
-
-<p align="center">🐕 I have two dogs</p>
+<table align="left" width="65%" bgcolor="#2d333b" cellpadding="12" cellspacing="0" border="0">
+  <tr>
+    <td align="center">
+      <strong><big>About me</big></strong><br><br>
+      💻 <strong>Python</strong><br>
+      ⚙️ Building web projects and automation tools<br>
+      🌱 Always learning and exploring new ideas<br>
+      🎮 Music • Games • Anime • Code<br>
+      🐕 I have two dogs
+    </td>
+  </tr>
+</table>
