@@ -12,7 +12,7 @@
 
 </td>
 <td width="38%" valign="top">
-<img src="./profile-side-image.jpg" alt="Soft anime-style cat illustration beside a sunlit building" width="100%" />
+<img src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/profile-side-image.jpg" alt="Soft anime-style cat illustration beside a sunlit building" width="280" />
 </td>
 </tr>
 </table>
