@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="205" viewBox="0 0 640 205" role="img" aria-labelledby="title description">
+  <title id="title">About me</title>
+  <desc id="description">Python. Building web projects and automation tools. Always learning and exploring new ideas. Music, games, anime and code. I have two dogs.</desc>
+  <rect width="640" height="205" rx="8" fill="#2b313b"/>
+  <g fill="#e6edf3" text-anchor="middle" font-family="Consolas, 'Courier New', monospace">
+    <text x="320" y="38" font-size="22" font-weight="700">About me</text>
+    <text x="320" y="73" font-size="16">💻  Python</text>
+    <text x="320" y="99" font-size="16">⚙️  Building web projects and automation tools</text>
+    <text x="320" y="125" font-size="16">🌱  Always learning and exploring new ideas</text>
+    <text x="320" y="151" font-size="16">🎮  Music • Games • Anime • Code</text>
+    <text x="320" y="177" font-size="16">🐕  I have two dogs</text>
+  </g>
+</svg>
