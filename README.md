@@ -2,9 +2,9 @@
 
 <p align="left"><img width="65%" alt="Hello, hello — I'm void, a Python developer" src="https://raw.githubusercontent.com/MagicSoull/MagicSoull/main/intro-typing-void.gif" /></p>
 
-<table align="left" width="65%" bgcolor="#2d333b" cellpadding="12" cellspacing="0" border="0">
+<table align="left" width="90%" bgcolor="#30363d" cellpadding="14" cellspacing="0" border="0">
   <tr>
-    <td align="center">
+    <td align="center" bgcolor="#30363d">
       <strong><big>About me</big></strong><br><br>
       💻 <strong>Python</strong><br>
       ⚙️ Building web projects and automation tools<br>
